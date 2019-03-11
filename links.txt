@@ -1,0 +1,3 @@
+Two's Complement: https://stackoverflow.com/questions/1049722/what-is-2s-complement
+
+Type Casting: https://www.studytonight.com/java/type-casting-in-java

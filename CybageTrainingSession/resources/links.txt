@@ -1,0 +1,9 @@
+Data Types: https://www.geeksforgeeks.org/data-types-in-java/
+
+Two's Complement: https://stackoverflow.com/questions/1049722/what-is-2s-complement
+
+Type Casting: https://www.studytonight.com/java/type-casting-in-java
+
+Integer Caching: https://javapapers.com/java/java-integer-cache/
+
+this keyword: https://www.javatpoint.com/this-keyword
